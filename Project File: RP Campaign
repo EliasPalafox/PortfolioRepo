@@ -1,7 +1,7 @@
 Purpose: An automated RPG campaign 
 
-Function: Creates and leads you down an RPG campaign created with preset options given, and chosen by the player (difficulty, number of player characters
-character creation, and complexity)
+Function: Creates and leads you down an RPG campaign created with preset options given, and chosen by the player (difficulty, sound, text)
+and a save and load system
 
 Flowchart: Start -> input -> input -> input -> input -> input -> input -> process -> decision -> output -> process -> decision -> input -> process -> end
 
