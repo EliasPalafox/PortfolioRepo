@@ -5,6 +5,6 @@ Function: Creates and leads you down an RPG campaign created with preset options
 Flowchart: Start -> input -> input -> input -> input -> input -> input -> process -> decision -> output -> process -> decision -> input -> process -> end
 
 Learning list: learn how to use 1 of Python's game engines, learn how to make random encounters, learn how to make an map 
-learn how to influence the game with difficulty, how to create sprites, how to attach stats to characters and enemies
+learn how to influence the game with difficulty, how to create sprites, how to attach stats to characters and enemies, how to make an ending
 
-Task list: Learn either Urcina or Pygame
+Task list: Learn either Urcina or Pygame, learn pixel art
