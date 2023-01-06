@@ -1,0 +1,12 @@
+#Store the properties of your superhero
+name = "Cyclone"
+location = "Parker's Way"
+gender = "Male"
+enemy = "The Scorcher"
+powers = "wind manipulation"
+speed = 10
+strength = 7
+age = 23
+
+#Display a description of your superhero
+print("I am  " + name + ", I'm " + gender + " and I protect the town of " + location + " from " + enemy + ".")
