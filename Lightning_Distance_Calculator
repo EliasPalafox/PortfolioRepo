@@ -1,0 +1,10 @@
+#Ligthning Distance Calculator - www.101computing.net/lightning-distance-calculator/
+seconds = int(input("How many seconds were there?: "))
+speedOfSound = 340 #m/s
+distance = seconds * speedOfSound
+print str(distance) + " distance"
+
+kilometers = distance / 1000
+print str(kilometers) + " kilometers"
+miles = kilometers / 1.609
+print str(miles) + " miles"
