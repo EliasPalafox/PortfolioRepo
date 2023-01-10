@@ -1,0 +1,20 @@
+#Cake Sale Challenge - www.101computing.net/cake-sale
+cupcakePrice = 0.40
+macaronPrice = 0.50
+cheesecakePrice = 0.70
+
+#Step 1: Input
+cupcakes = int(input("How many cupcakes do you plan to sell?"))
+macarons = int(input("How many macarons do you plan to sell?"))
+cheesecakes = int(input("How many cheesecake do you plan to sell?"))
+#Step 2: Process
+cupcakeTotal = cupcakes * cupcakePrice
+macaronTotal = macarons * macaronPrice
+cheesecakeTotal = cheesecakes * cheesecakePrice
+
+print ("Total profit of cupcakes sold: " + str(cupcakeTotal) + "P")
+print ("Total profit of macarons sold: " + str(macaronTotal) + "P")
+print ("Total profit of cheesecakes sold: " + str(cheesecakeTotal) + "P")
+#Step 3: Output
+Total = cupcakeTotal + macaronTotal + cheesecakeTotal
+print ("Total money raised from the cakesale: " + str(Total) + "P")
