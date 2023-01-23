@@ -1,0 +1,7 @@
+# Discount Price Calculator - www.101computing.net/discount-price-calculator/
+base_price = float(input("What is the price?: "))
+discount_rate = float(input("What is the discount?: "))
+percent = base_price * discount_rate / 100
+print(str(percent) + "%")
+total_price = base_price - percent
+print(str(total_price) + "$")
